@@ -4,7 +4,7 @@ title:  "Welcome to E1!"
 date:   2022-10-01 22:30:17 +0800
 categories: jekyll update
 ---
-This
+
 This is my final website, and it's called Flappy Words, a sort of game-like interactive website for jumping through obstacles. I thought and used many ideas to make this website.
 1. Make the background picture and obstacle column of the website.
 In order to follow the effective complexity interaction, I added barrier bars to ensure the implementation of the game, as well as decorative background images to make the site more visually pleasing.
