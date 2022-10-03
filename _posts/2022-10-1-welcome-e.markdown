@@ -7,6 +7,8 @@ categories: jekyll update
 
 This is my final website, and it's called Flappy Words, a sort of game-like interactive website for jumping through obstacles. I thought and used many ideas to make this website.
 1. Make the background picture and obstacle column of the website.
+
+
 In order to follow the effective complexity interaction, I added barrier bars to ensure the implementation of the game, as well as decorative background images to make the site more visually pleasing.
 2. Use squares and text as the characters of the game
 In making the characters for the game, I used geometry and text to interact. I made five squares and added text to each of them.The composition was' Happy'.It stands for joy as a game.
