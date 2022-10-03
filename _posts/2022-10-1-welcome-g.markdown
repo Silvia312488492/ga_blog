@@ -4,9 +4,9 @@ title:  "Welcome to G!"
 date:   2022-10-01 22:32:17 +0800
 categories: jekyll update
 ---
-This
+This1
 
-<h1>789</h1>
+<script src="mouseEffect.js"></script>
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
