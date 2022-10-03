@@ -7,7 +7,7 @@ categories: jekyll update
 This
 
 <h1>123</h1>
-<a href="https://silvia312488492.github.io/ga_blog/index.html">Web Game</a>
+<a href="https://silvia312488492.github.io/web_game/index.html">Web Game</a>
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
