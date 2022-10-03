@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Final Website Flappy words"
+title:  "Final Website flappy words"
 date:   2022-10-01 22:30:17 +0800
 categories: jekyll update
 ---
