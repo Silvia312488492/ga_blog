@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "Welcome to E!"
+title:  "Welcome to E1!"
 date:   2022-10-01 22:30:17 +0800
 categories: jekyll update
 ---
 This
 
-<H1>123</h1>
+<h1>123</h1>
+<a href="https://silvia312488492.github.io/ga_blog/index.html">Web Game</a>
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
