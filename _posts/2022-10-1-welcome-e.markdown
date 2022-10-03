@@ -5,6 +5,7 @@ date:   2022-10-01 22:30:17 +0800
 categories: jekyll update
 ---
 
+<p>
 This is my final website, and it's called Flappy Words, a sort of game-like interactive website for jumping through obstacles. I thought and used many ideas to make this website.
 1. Make the background picture and obstacle column of the website.
 
@@ -21,6 +22,8 @@ This is the most bright interactive production, when the mouse click any place o
 4. Mouse game Interaction
 
 In the game, click with the mouse game screen, 5 square will follow the mouse move up and down like a small train, need through the obstacles and avoid to touch to ensure to continue the game, in the game interesting point is that five squares represent five lives and opportunities, if the leader square met with obstacles, it will disappear automatically, which naturally lose a life, Until all the squares disappear, the game is over.
+</p>
+
 <h1>This is website link</h1>
 <a href="https://silvia312488492.github.io/web_game/index.html">Web Game</a>
 
