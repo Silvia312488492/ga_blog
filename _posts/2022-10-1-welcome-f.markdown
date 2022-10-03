@@ -4,9 +4,12 @@ title:  "Welcome to E!"
 date:   2022-10-01 22:31:17 +0800
 categories: jekyll update
 ---
-This
 
-<h1>456</h1>
+<h2>JavaScript change text</h2>
+
+<p id="demo">JavaScript change text ready</p>
+
+<button type="button" onclick='document.getElementById("demo").innerHTML = "Hello"'>Click me!</button>
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
