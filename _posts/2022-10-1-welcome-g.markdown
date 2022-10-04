@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to G!"
+title:  "Javascript function firework balls"
 date:   2022-10-01 22:32:17 +0800
 categories: jekyll update
 ---
