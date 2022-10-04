@@ -5,12 +5,7 @@ date:   2022-10-01 22:31:17 +0800
 categories: jekyll update
 ---
 
-<h2>JavaScript change text</h2>
-
-<p id="demo">JavaScript change text ready</p>
-
-<button type="button" onclick='document.getElementById("demo").innerHTML = "Hello"'>Click me!</button>
-
+<a href="https://silvia312488492.github.io/drawing/index.html">Drawing Now</a>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
