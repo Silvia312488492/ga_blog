@@ -9,6 +9,8 @@ This is my creative text canvas, which creates a canvas based on adding text to 
 1. it have efficient creative ability, because it can create different canvases according to different words
 <br>
 2. it's unique, because every canvas made of text is one and only.
+<br>
+This is the link
 <a href="Silvia312488492.github.io/input/index.html">Create your canvas</a>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
