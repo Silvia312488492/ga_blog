@@ -4,7 +4,6 @@ title:  "Javascript function firework balls"
 date:   2022-10-01 22:32:17 +0800
 categories: jekyll update
 ---
-This1
 <script>
 function clickEffect() {
   //Variable declaration
