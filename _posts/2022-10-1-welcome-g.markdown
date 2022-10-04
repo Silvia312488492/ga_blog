@@ -7,15 +7,15 @@ categories: jekyll update
 <p>
 This is my special effect, it is colorful fireworks balls, need to use the mouse interaction.
    <br> 
-1.Different forms
+   <b>1.Different forms</b>
 use mouse click on the white screen will make a small number of colored firework balls appear and disappear quickly.
 use the mouse click on a white screen for a long time will produce a larger explosion of many colored firework balls.
 A quick mouse click on a white screen will reveal a large number of colorful firework balls.
    <br> 
-2.Excellent user experience
+   <b>2.Excellent user experience</b>
 Because of the different forms of interaction, it gives customers good viewing, effect and interactivity.
    <br> 
-3.Give the game better interactive effects
+   <b>3.Give the game better interactive effects</b>
 I added this firework ball effect to the game, and it worked with the content of the game and added complexity to the interaction.</p>
 
 <script>
