@@ -24,7 +24,7 @@ I added this firework ball effect to the game, and it worked with the content of
    Reference link
    <br>
    <a href="https://www.pinterest.com.au/pin/465418942739011783/">firework balls</a>
-
+ <br>
 <script>
     //Variable declaration
 function clickEffect() {
