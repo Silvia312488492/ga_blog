@@ -7,12 +7,14 @@ categories: jekyll update
 This is a "pencil drawing " that I made, and the interesting point that I explored was
 <br>
 1. You can create drawings and words freely without limitation.
-<br>
 2. Give customers better interactive experience.
 <br>
-This is the link
+This is the html link
 <br>
 <a href="https://silvia312488492.github.io/drawing/index.html">Drawing</a>
+Reference link
+<br>
+<a herf="https://www.adobe.com/creativecloud/video/discover/whiteboard-animation.html">white board</a>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
