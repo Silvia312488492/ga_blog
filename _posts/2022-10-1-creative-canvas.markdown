@@ -11,8 +11,8 @@ This is my creative text canvas, which creates a canvas based on adding text to 
 <br>This is the html link
 <br><a href="https://silvia312488492.github.io/input/index.html">Create your canvas</a>
 <br>Reference link
-<br>https://pixels.com/featured/jimi-hendrix-black-and-white-word-portrait-kato-smock.html
-https://github.com/Silvia312488492/ga_blog/edit/gh-pages/_posts/2022-10-1-creative-canvas.markdown
+<br><a href="https://pixels.com/featured/jimi-hendrix-black-and-white-word-portrait-kato-smock.html"></a>
+<a herf="https://github.com/Silvia312488492/ga_blog/edit/gh-pages/_posts/2022-10-1-creative-canvas.markdown"></a>
 
 
 
