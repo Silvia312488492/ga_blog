@@ -20,6 +20,10 @@ Because of the different forms of interaction, it gives customers good viewing, 
    <b>3.Give the game better interactive effects</b>
    <br>
 I added this firework ball effect to the game, and it worked with the content of the game and added complexity to the interaction.</p>
+<br>
+   Reference link
+   <br>
+   <a href="https://www.pinterest.com.au/pin/465418942739011783/">firework balls</a>
 
 <script>
     //Variable declaration
@@ -160,9 +164,8 @@ function clickEffect() {
   clickEffect();//call clickeffect() funciton
   //TEST
 </script>
-   Reference link
-   <br>
-   <a href="https://www.pinterest.com.au/pin/465418942739011783/">firework balls</a>
+
+   
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
