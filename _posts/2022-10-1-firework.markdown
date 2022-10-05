@@ -25,6 +25,7 @@ I added this firework ball effect to the game, and it worked with the content of
    <br>
    <a href="https://www.pinterest.com.au/pin/465418942739011783/">firework balls</a>
  <br>
+ 
 <script>
     //Variable declaration
 function clickEffect() {
@@ -166,6 +167,4 @@ function clickEffect() {
 </script>
 
    
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+
