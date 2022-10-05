@@ -1,14 +1,16 @@
 ---
 layout: post
-title:  "Javascript function drawing"
+title:  "Javascript function pencil drawing"
 date:   2022-10-01 22:31:17 +0800
 categories: jekyll update
 ---
-This is a "drawing pencil" that I made, and the interesting point that I explored was
+This is a "pencil drawing " that I made, and the interesting point that I explored was
 <br>
 1. You can create drawings and words freely without limitation.
 <br>
 2. Give customers better interactive experience.
+<br>
+This is the link
 <a href="https://silvia312488492.github.io/drawing/index.html">Drawing</a>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
