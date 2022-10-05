@@ -25,7 +25,7 @@ In the game, click with the mouse game screen, 5 square will follow the mouse mo
 <br>
 Reference link
 <br>
-<a herf="https://www.youtube.com/watch?v=fQoJZuBwrkU">Flappy bird</a>
+<a href="https://www.youtube.com/watch?v=fQoJZuBwrkU">Flappy bird</a>
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
