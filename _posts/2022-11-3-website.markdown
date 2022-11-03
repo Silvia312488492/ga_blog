@@ -9,9 +9,9 @@ This is my final presentation vedio, and it's called Flappy Words, it is the con
 
 <br>
 <h4>1. I made some changes based on At2 assignment.
-First of all, I changed the code for the game in AT2 to use it as the main material for the presentation video,   and I made some changes.
+First of all, I changed the code for the game in AT2 to use it as the main material for the presentation video, and I made some changes.
 I changed this line of code to window.  GameWindow = window.  GameWindow || GameWindow;
-because In order to make it easier for audience and me (the programmer) to understand the code and to modify or update the website in   the future.
+because In order to make it easier for audience and me (the programmer) to understand the code and easy to update the website in the future.
 <br>
 <h4>2.Secondly, I changed var statement to let statement,   because it's a new way of writing it.   Meanwhile,one big drawback of var statement is that in some block statements (if, else,   for, while, etc.), variables declared by var statement are leaked to the whole domain! This can lead to side effects that may affect each other or make maintenance more difficult during engineer transitions.
 <br>
