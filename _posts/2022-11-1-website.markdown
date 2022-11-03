@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Final Website flappy words"
+title:  "Final presentation"
 date:   2022-10-01 22:30:17 +0800
 categories: jekyll update
 ---
@@ -23,7 +23,7 @@ because In order to make it easier for audience and me (the programmer) to under
 <br>
 <h4>.6.My friend thinks the effect of this fireworks balls is great, it gives the ordinary click of the special effect, pleasing to the eyes. And that number cube is also fun to count life, like a little train. She thinks I could add something like slowing down to the code, because blocks travel so fast that it's easy to lose your life. Overall, she thinks it's a good game, and she said can research and come up with some better ideas, like the fireworks balls.
 <h4>This is my final presentation link</h4>
-<a href="https://youtu.be/Il86d0GQhiY">Web Game</a>
+<a href="https://youtu.be/Il86d0GQhiY">presentation video</a>
 <br>
 Reference link
 <br>
