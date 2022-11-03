@@ -13,7 +13,7 @@ First of all, I changed the code for the game in AT2 to use it as the main mater
 I changed this line of code to window.  GameWindow = window.  GameWindow || GameWindow;
 because In order to make it easier for audience and me (the programmer) to understand the code and easy to update the website in the future.
 <br>
-<h4>2.Secondly, I changed var statement to let statement,   because it's a new way of writing it.   Meanwhile,one big drawback of var statement is that in some block statements (if, else,   for, while, etc.), variables declared by var statement are leaked to the whole domain! This can lead to side effects that may affect each other or make maintenance more difficult during engineer transitions.
+<h4>2.Secondly, I changed var statement to let statement,   because it's a new way of writing it. A var declaration is either global scope or function scope, while let is block scope. var variables can be updated and redeclared within their scope; let variables can be updated but not redeclared, so use let variablesMeanwhile,one big drawback of var statement is that in some block statements (if, else,   for, while, etc.), variables declared by var statement are leaked to the whole domain! This can lead to side effects that may affect each other or make maintenance more difficult during engineer transitions.
 <br>
 <h4>3.Thirdly, I changed the movement Letters "happy" in the game to the number 1234,   because it shows the number of lives more clearly.
 <br>
